@@ -1,1 +1,2 @@
-First file in git
+1.Test for adding First file in git
+2.Doing some changes in file
